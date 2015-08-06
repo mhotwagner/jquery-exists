@@ -7,4 +7,4 @@
 	$.fn.exists = function() {
 		return this.length == 0 ? false : this;
 	}
-})
+}(jQuery));
