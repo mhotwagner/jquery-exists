@@ -13,3 +13,8 @@ SO, now we've got $('#thing').exists(), which returns a jquery collection if mat
 This might very well exist somewhere else, but I recently wrapped it into a project, and felt I should share.
 
 Questions, comments, and harsh criticisms welcome!
+
+
+---
+
+Released under the MIT License
