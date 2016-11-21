@@ -6,7 +6,7 @@ Who wants to search for the object twice?
 
 No one. Anywhere. Ever.
 
-I long considered just overwriting the standard jquery selection function, but that feels like taking too much liberty, and wil likely break a lot of projects.
+I considered just overwriting the standard jquery selection function, but that feels like taking too much liberty, and will likely break a lot of projects.
 
 SO, now we've got $('#thing').exists(), which returns a jquery collection if matching items are found, and returns false if not.
 
